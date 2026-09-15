@@ -1,0 +1,17 @@
+{
+  "canonical": {
+    "label": "Canonical",
+    "description": "Books recognized by the Catholic Church (Old and New Testament, 73 books)",
+    "available_in_ora": true
+  },
+  "deuterocanonical": {
+    "label": "Deuterocanonical",
+    "description": "Books recognized by Catholic/Orthodox churches (Tobit, Judith, 1-2 Maccabees, Wisdom, Sirach, Baruch)",
+    "available_in_ora": true
+  },
+  "apocryphal": {
+    "label": "Apocryphal",
+    "description": "Books NOT recognized by the Catholic Church. Labeled but not available for download in Ora.",
+    "available_in_ora": false
+  }
+}
